@@ -1,0 +1,5 @@
+This is my attempt at a Python kata for implementing the Minesweeper game. This kata was set as a coding challenge at the Python North West group in 2011, where this group meets on the third Thursday of each month at Madlab in Manchester.
+
+The Minesweeper program must accept the Minesweeper board as a string of '-' or '*' characters, where '-' represents an empty square and '*' represents a mine. The program must then convert this into a completed Minesweeper board, where each square is labelled with its number of adjacent mines.
+
+This solution enforces a square board, where the input string specifies the Minesweeper board one row at a time, not one column at a time.
